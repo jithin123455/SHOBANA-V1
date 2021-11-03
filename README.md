@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/87fd3f1437dbd06644b20.jpg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+[![Deploy](https://telegra.ph/file/a371342577a6d2f37ae08.jpg)](https://heroku.com/deploy?template=https://github.com/jithin123455/SHOBANA-V1)
 
 - [x] Auto Filter
 - [x] Manuel Filter
@@ -21,8 +21,6 @@ Very Sempil Bot Auto Filter bot
 
 ## Installation
 
-###Alpha botz😌
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/ALPHA_IMDB_BOT)
 
 
 
@@ -34,8 +32,9 @@ Very Sempil Bot Auto Filter bot
 
 
 
-###ANNA BEN REPO
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+
+###SHOBANA REPO
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jithin123455/SHOBANA-V1)
 ### Hard Way
 
 ```bash
